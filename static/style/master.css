@@ -787,7 +787,7 @@ h6 {
 *	Background color
 ---------------------------*/
 .theme-bg {
-  background-color: #03c;
+  background-color:#357ddc;
 }
 
 .theme-after:after {
@@ -907,6 +907,11 @@ h6 {
 .white-color-light {
   color: rgba(255, 255, 255, 0.65);
 }
+
+.heading-color-light {
+  color: #fcfafa;
+}
+
 
 .pink-color {
   color: #f12699;
